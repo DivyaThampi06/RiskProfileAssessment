@@ -1,0 +1,267 @@
+{
+  "questions": [
+    {
+      "question": "As I withdraw money from these investments, I plan to spend it over a period of...",
+      "options": [
+        {
+          "option": "2 years or less",
+          "score": 1
+        },
+        {
+          "option": "3-5 years",
+          "score": 2
+        },
+        {
+          "option": "6-10 years",
+          "score": 3
+        },
+        {
+          "option": "11-15 years",
+          "score": 4
+        },
+        {
+          "option": "More than 15 years",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "question": "When making a long-term investment, I plan to keep the money invested for...",
+      "options": [
+        {
+          "option": "1-2 years",
+          "score": 1
+        },
+        {
+          "option": "3-4 years",
+          "score": 2
+        },
+        {
+          "option": "5-6 years",
+          "score": 3
+        },
+        {
+          "option": "7-8 years",
+          "score": 4
+        },
+        {
+          "option": "More than 8 years",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "question": "When it comes to investing in stock or bond mutual funds or ETFs - or individual stocks or bonds - I would describe myself as...",
+      "options": [
+        {
+          "option": "Very inexperienced",
+          "score": 1
+        },
+        {
+          "option": "Somewhat inexperienced",
+          "score": 2
+        },
+        {
+          "option": "Somewhat experienced",
+          "score": 3
+        },
+        {
+          "option": "Experienced",
+          "score": 4
+        },
+        {
+          "option": "Very experienced",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "question": "I plan to begin taking money from my investments in...",
+      "options": [
+        {
+          "option": "1 year or less",
+          "score": 1
+        },
+        {
+          "option": "1-2 years",
+          "score": 2
+        },
+        {
+          "option": "3-5 years",
+          "score": 3
+        },
+        {
+          "option": "6-10 years",
+          "score": 4
+        },
+        {
+          "option": "11-15 years",
+          "score": 5
+        },
+        {
+          "option": "More than 15 years",
+          "score": 6
+        }
+      ]
+    },
+    {
+      "question": "My current and future income sources (for example, salary, social security, pensions) are...",
+      "options": [
+        {
+          "option": "Very unstable",
+          "score": 1
+        },
+        {
+          "option": "Unstable",
+          "score": 2
+        },
+        {
+          "option": "Somewhat stable",
+          "score": 3
+        },
+        {
+          "option": "Stable",
+          "score": 4
+        },
+        {
+          "option": "Very stable",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "question": "From September 2008 through October 2008, bonds lost 4%. If I owned a bond investment that lost 4% in two months, I would...",
+      "options": [
+        {
+          "option": "Sell all the remaining investment",
+          "score": 1
+        },
+        {
+          "option": "Sell a portion of the remaining investment",
+          "score": 2
+        },
+        {
+          "option": "Hold onto the investment and sell nothing",
+          "score": 3
+        },
+        {
+          "option": "Buy more of the remaining investment",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "question": "The chart shows the greatest 1-year loss and the highest 1-year gain on 3 different hypothetical investments of $10,000.* Given the potential gain or loss in any 1 year, I would invest my money in...",
+      "options": [
+        {
+          "option": "Minimal volatility",
+          "score": 1
+        },
+        {
+          "option": "Moderate volatility",
+          "score": 2
+        },
+        {
+          "option": "Most volatility",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "question": "During market declines, I tend to sell portions of my riskier assets and invest the money in safer assets.",
+      "options": [
+        {
+          "option": "Strongly disagree",
+          "score": 1
+        },
+        {
+          "option": "Disagree",
+          "score": 2
+        },
+        {
+          "option": "Somewhat agree",
+          "score": 3
+        },
+        {
+          "option": "Agree",
+          "score": 4
+        },
+        {
+          "option": "Strongly agree",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "question": "I would invest in a mutual fund or ETF (exchanged-traded fund) based solely on a brief conversation with a friend, co-worker, or relative.",
+      "options": [
+        {
+          "option": "Strongly disagree",
+          "score": 1
+        },
+        {
+          "option": "Disagree",
+          "score": 2
+        },
+        {
+          "option": "Somewhat agree",
+          "score": 3
+        },
+        {
+          "option": "Agree",
+          "score": 4
+        },
+        {
+          "option": "Strongly agree",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "question": "From September 2008 through November 2008, stocks lost over 31%. If I owned a stock investment that lost about 31% in three months, I would...",
+      "options": [
+        {
+          "option": "Sell all the remaining investment",
+          "score": 1
+        },
+        {
+          "option": "Sell a portion of the remaining investment",
+          "score": 2
+        },
+        {
+          "option": "Hold onto the investment and sell nothing",
+          "score": 3
+        },
+        {
+          "option": "Buy more of the remaining investment",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "question": "Generally, I prefer an investment with little or no ups and downs in value, and I am willing to accept the lower returns these investments may make.",
+      "options": [
+        {
+          "option": "Strongly disagree",
+          "score": 1
+        },
+        {
+          "option": "Disagree",
+          "score": 2
+        },
+        {
+          "option": "Somewhat agree",
+          "score": 3
+        },
+        {
+          "option": "Agree",
+          "score": 4
+        },
+        {
+          "option": "Strongly agree",
+          "score": 5
+        }
+      ]
+    }
+  ]
+}
