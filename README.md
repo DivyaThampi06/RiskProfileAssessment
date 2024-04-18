@@ -1,4 +1,5 @@
 RiskAssessPro
+
 RiskAssessPro is a mobile application designed to help users assess their risk tolerance in investing through a series of questions. The app calculates a score based on the user's responses, providing insight into their risk profile.
 
 Features
@@ -12,7 +13,7 @@ To install RiskAssessPro on your Android device, follow these steps:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/DivyaThampi06/RiskAssessPro.git
+git clone https://github.com/DivyaThampi06/RiskProfileAssessment.git
 Open the project in Android Studio.
 Build and run the app on your Android device or emulator.
 Usage
@@ -24,4 +25,4 @@ Review the feedback provided by the app based on your risk assessment score.
 Use the insights gained from the assessment to make informed decisions about your investment strategy.
 Contributing
 Contributions to RiskAssessPro are welcome! If you have suggestions for new features, bug fixes, or improvements, please feel free to open an issue or submit a pull request.
-
+![Alt Text](kotlin.gif)
